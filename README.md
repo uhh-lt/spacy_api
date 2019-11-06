@@ -22,6 +22,8 @@ List of (token, pos, lemma, dep) tuples as json
 Example request:
 
 curl -d "text=auch wenn wir von dieser Zukunft noch etwas entfernt sind ist es heute schon sinnvoll über IT Ethik zu diskutieren" -X POST http://localhost:9000/process
+
+
 [
   [
     "auch",
